@@ -1,0 +1,18 @@
+{
+  "name": "express-react",
+  "version": "1.0.0",
+  "description": "Um teste com express e react",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mathias Oliveira (mtgo007)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-react-views": "^0.10.5",
+    "mongojs": "^2.5.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
